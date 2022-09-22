@@ -1,0 +1,24 @@
+{
+  "name": "maritan-ration-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naveentn24/maritan-ration-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naveentn24/maritan-ration-backend/issues"
+  },
+  "homepage": "https://github.com/Naveentn24/maritan-ration-backend#readme"
+}
